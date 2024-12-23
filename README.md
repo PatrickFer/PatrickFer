@@ -8,7 +8,7 @@
 ## My name is Patrick Fernando
 (C# | .NET | Angular | Typescript | Javascript | HTML | CSS) 🚀
 - 👨‍💻 Full Stack Developer
-- 🎓 Graduated in Systems Analysis and Development
+- 🎓 I'm currently pursuing a postgraduate degree in Software Architecture
 - 🌐 Passionate about tech
 - 💡 I'm always eager to learn new things and grow professionally
 
